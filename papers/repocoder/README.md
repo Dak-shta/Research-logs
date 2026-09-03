@@ -72,3 +72,9 @@ Provide Context to LLM
 Generate Code
     ↓
 Iterative Retrieval + Generation
+
+## Benchmark
+->  This benchmark is carefully
+constructed using the latest high-quality repositories sourced from GitHub and encompasses three
+levels of code completion granularity: line, API invocation, and function body. 
+
